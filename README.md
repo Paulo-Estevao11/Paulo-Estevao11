@@ -2,7 +2,7 @@
 
 **`Aluno de Desenvolvimento de Sistemas`**
 
-Me chamo Paulo Alves Estevão, tenho 17 anos e sou natural de Campinas. Curso o técnico de DS com ensino médio integrado na Etec Hortolândia. 
+Me chamo Paulo Alves Estevão, tenho 18 anos e sou natural de Campinas. Curso o técnico de DS com ensino médio integrado na Etec Hortolândia. 
 
 ### 🤖 Linguagens e Tecnologias
 
